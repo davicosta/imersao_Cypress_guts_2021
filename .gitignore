@@ -1,0 +1,9 @@
+# cypress
+
+cypress/videos
+cypress/screenshots
+
+# outros
+
+node_modules
+package-lock.json

@@ -1,0 +1,17 @@
+{
+  "name": "imersao_Cypress_guts_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run:mobile": "npx cypress run --config viewportWidth=411,viewportHeight=823",
+    "cypress:run": "npx cypress run",
+    "cypress:run:dash": "npx cypress run --record --key 7f5e3b3e-ff99-42a5-9f23-d015e861d32c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
